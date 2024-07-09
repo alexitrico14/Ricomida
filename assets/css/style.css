@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Cabin", sans-serif; 
+}
+
+header {
+    margin-top: 80px;
+}
+
+.lobster {
+    font-family: "Lobster", sans-serif;
+    font-size: 2em;
+}
+
+.slider {
+    width: 300px;
+}
+
+.newsletter {
+    background-color: #DC3545;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #373A3C;
+    color: #fff;
+    font-size: 1.5em;
+    text-align: center;
+    padding: 20px;
+}
+
+li {
+    list-style-type: none;
+}
+
+#aa {
+    font-size: 60px;
+}
+
+#bb {
+    border-top: 2px solid #000;
+}
